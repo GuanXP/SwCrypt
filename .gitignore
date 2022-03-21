@@ -13,6 +13,7 @@ test_output
 *.perspectivev3
 !default.perspectivev3
 xcuserdata
+SwCrypt.xcodeproj/project.xcworkspace/xcshareddata/
 
 ## Other
 *.xccheckout
